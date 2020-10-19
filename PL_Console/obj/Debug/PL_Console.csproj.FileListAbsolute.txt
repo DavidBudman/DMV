@@ -1,0 +1,2 @@
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\PL_Console\obj\Debug\PL_Console.csprojAssemblyReference.cache
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\PL_Console\obj\Debug\PL_Console.csproj.CoreCompileInputs.cache
