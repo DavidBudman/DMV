@@ -1,0 +1,18 @@
+﻿<Window x:Class="PL_WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PL_WpfApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="Tatte" Content="מי יודע" HorizontalAlignment="Left" Margin="83,73,0,0" VerticalAlignment="Top" Width="96" Height="40" Click="ShowPersons_Click"/>
+        <DataGrid x:Name="datagrid" HorizontalAlignment="Left" Height="362" Margin="273,27,0,0" VerticalAlignment="Top" Width="470" />
+        <Button x:Name="addTraineeBtn" Content="add טרייני" HorizontalAlignment="Left" Margin="83,137,0,0" VerticalAlignment="Top" Width="96" Height="48" Click="addTraineeBtn_Click"/>
+        <Button  x:Name="addScheduleBtn" Content="הוסף לוז" HorizontalAlignment="Left" Margin="83,305,0,0" VerticalAlignment="Top" Width="96" Height="37" Click="AddTesterBtn_Click"/>
+        <Button x:Name="YourAreSoLate" Content="Go to H ell" HorizontalAlignment="Left" Margin="69,27,0,0" VerticalAlignment="Top" Width="75" Click="Distance_Click"/>
+        <Button x:Name="testersGroupBtn" Content="ShowGrouping" HorizontalAlignment="Left" Margin="45,374,0,0" VerticalAlignment="Top" Width="75" Click="ViewTestersGroup_Click"/>
+        <Button x:Name="DrivingTestBtn"  Content="שידוכים" HorizontalAlignment="Left" Margin="83,229,0,0" VerticalAlignment="Top" Width="96" Height="39" Click="DrivingTestBtn_Click"/>
+    </Grid>
+</Window>

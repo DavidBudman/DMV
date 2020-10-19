@@ -1,0 +1,22 @@
+﻿<Window x:Class="PL_WpfApp.DrivingTestWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PL_WpfApp"
+        mc:Ignorable="d"
+        Title="DrivingTestWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <ComboBox x:Name="TraineesCbx" HorizontalAlignment="Left" Margin="64,34,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="TraineesCbx_SelectionChanged"/>
+        <ComboBox x:Name="TestersCbx" Text="choose a tester"  Grid.Column="1" HorizontalAlignment="Left" Margin="109,34,0,0" VerticalAlignment="Top" Width="120" Visibility="Hidden" SelectionChanged="TrainerCbx_SelectionChanged"/>
+
+    </Grid>
+</Window>
