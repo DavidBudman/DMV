@@ -1,0 +1,15 @@
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\BL\bin\Debug\BL.dll
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\BL\bin\Debug\BL.pdb
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\BL\bin\Debug\BE.dll
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\BL\bin\Debug\DAL.dll
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\BL\bin\Debug\ToolsEngine.dll
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\BL\bin\Debug\DS.dll
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\BL\bin\Debug\BE.pdb
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\BL\bin\Debug\DAL.pdb
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\BL\bin\Debug\ToolsEngine.pdb
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\BL\bin\Debug\DS.pdb
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\BL\obj\Debug\BL.dll
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\BL\obj\Debug\BL.pdb
