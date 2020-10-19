@@ -1,0 +1,13 @@
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\DAL\bin\Debug\DAL.dll
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\DAL\bin\Debug\DAL.pdb
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\DAL\bin\Debug\BE.dll
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\DAL\bin\Debug\DS.dll
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\DAL\bin\Debug\ToolsEngine.dll
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\DAL\bin\Debug\BE.pdb
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\DAL\bin\Debug\DS.pdb
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\DAL\bin\Debug\ToolsEngine.pdb
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\DAL\obj\Debug\DAL.dll
+C:\Users\usrer\Desktop\JCT\#Shana Bet Semester Bet\Mini Project in Windows\Our Project\DMV_5779\DAL\obj\Debug\DAL.pdb
